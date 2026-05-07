@@ -1,3 +1,4 @@
+``` mermaid
 erDiagram
 
     CLIENTES ||--o{ VEICULOS : "possui"
