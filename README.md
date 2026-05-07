@@ -1,4 +1,5 @@
 erDiagram
+
     CLIENTES ||--o{ VEICULOS : "possui"
     VEICULOS ||--o{ ORDENS_SERVICO : "gera"
     MECANICOS ||--o{ ORDENS_SERVICO : "executa"
