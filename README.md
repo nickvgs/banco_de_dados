@@ -1,7 +1,3 @@
-# banco_de_dados
-Atividade prática de BD
-
-
 erDiagram
     CLIENTES ||--o{ VEICULOS : "possui"
     VEICULOS ||--o{ ORDENS_SERVICO : "gera"
